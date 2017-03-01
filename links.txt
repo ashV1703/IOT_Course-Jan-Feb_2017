@@ -1,0 +1,4 @@
+https://www.allaboutcircuits.com/projects/control-an-arduino-using-your-phone/
+https://learn.sparkfun.com/tutorials/serial-communication
+https://learn.sparkfun.com/tutorials/sparkfun-rfid-starter-kit-hookup-guide?_ga=1.43035174.242178748.1487251736
+http://cdn.sparkfun.com/datasheets/Sensors/ID/RFID_USB_Reader-v18.pdf
